@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/gustavoleite170">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ThalyssonLeite&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalyssonLeite&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=gustavoleite170&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoleite170&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
 </div>
   
  <div>
