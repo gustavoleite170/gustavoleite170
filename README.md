@@ -1,9 +1,8 @@
 ### Aloha, pessoal!! 👋
 
-- 🔭 Atualmente trabalho na Milkbrown
-- 🌱 No momento estudo HTML, CSS, JS, Angular e Node.js
+- 🌱 No momento estudo e pratico com sangue nos olhos HTML, CSS, JS, Angular e Node.js
 - 📫 Contato: https://www.linkedin.com/in/gustavo-leite-791b51152/
-- ⚡ Fato curioso: As pessoas sempre se decepcionam quando uma frase não termina como elas macaco... 😉
+- ⚡ Fato curioso: As pessoas sempre se decepcionam quando uma frase não termina como elas macaco...😉
 
 
 <div align="center">
